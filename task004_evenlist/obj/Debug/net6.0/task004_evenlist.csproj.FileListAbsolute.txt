@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\bin\Debug\net6.0\task004_evenlist.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\bin\Debug\net6.0\task004_evenlist.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\bin\Debug\net6.0\task004_evenlist.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\bin\Debug\net6.0\task004_evenlist.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\bin\Debug\net6.0\task004_evenlist.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\refint\task004_evenlist.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\task004_evenlist.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task004_evenlist\obj\Debug\net6.0\ref\task004_evenlist.dll
