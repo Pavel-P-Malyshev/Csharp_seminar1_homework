@@ -16,14 +16,6 @@ while(A==B)
     Console.WriteLine("Enter  number2 (B):");
     B = int.Parse(Console.ReadLine()); //преобразование строки в целове число
 }
-while(A==0&&B==0) 
-{
-    Console.WriteLine("Your numbers are both zero! Input other numbers.");
-    Console.WriteLine("Enter  number1 (A):");
-    A = int.Parse(Console.ReadLine()); //преобразование строки в целове число
-    Console.WriteLine("Enter  number2 (B):");
-    B = int.Parse(Console.ReadLine()); //преобразование строки в целове число
-}
 
 if(A>B) {Console.WriteLine($"You max number is A={A} and your min number is B={B}");}
 else {Console.WriteLine($"You max number is B={B} and your min number is A={A}");}
