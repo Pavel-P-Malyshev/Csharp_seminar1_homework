@@ -9,7 +9,7 @@ Console.WriteLine("Enter  number3 (C):");
 int C = int.Parse(Console.ReadLine()); //преобразование строки в целове число
 
 
-while((A==B&&B==C&&A==C)||A==B||A==C||B==C) 
+while((A==B&&B==C&&A==C)|A==B|A==C|B==C) 
 {
     Console.WriteLine("Some of Your numbers are equal ! Input other numbers.");
     Console.WriteLine("Enter  number1 (A):");
@@ -19,14 +19,6 @@ while((A==B&&B==C&&A==C)||A==B||A==C||B==C)
     Console.WriteLine("Enter  number3 (C):");
     C = int.Parse(Console.ReadLine()); //преобразование строки в целове число
 
-}
-while(A==0&&B==0&&C=0) 
-{
-    Console.WriteLine("Your numbers are all zero! Input other numbers.");
-    Console.WriteLine("Enter  number1 (A):");
-    A = int.Parse(Console.ReadLine()); //преобразование строки в целове число
-    Console.WriteLine("Enter  number2 (B):");
-    B = int.Parse(Console.ReadLine()); //преобразование строки в целове число
 }
 
 int max;

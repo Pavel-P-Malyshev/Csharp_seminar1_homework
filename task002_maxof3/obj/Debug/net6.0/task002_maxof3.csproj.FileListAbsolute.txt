@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\bin\Debug\net6.0\task002_maxof3.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\bin\Debug\net6.0\task002_maxof3.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\bin\Debug\net6.0\task002_maxof3.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\bin\Debug\net6.0\task002_maxof3.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\bin\Debug\net6.0\task002_maxof3.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\refint\task002_maxof3.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\task002_maxof3.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task002_maxof3\obj\Debug\net6.0\ref\task002_maxof3.dll
