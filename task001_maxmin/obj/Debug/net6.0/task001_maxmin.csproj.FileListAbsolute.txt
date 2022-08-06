@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\bin\Debug\net6.0\task001_maxmin.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\bin\Debug\net6.0\task001_maxmin.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\bin\Debug\net6.0\task001_maxmin.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\bin\Debug\net6.0\task001_maxmin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\bin\Debug\net6.0\task001_maxmin.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\refint\task001_maxmin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\task001_maxmin.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1 homework\task001_maxmin\obj\Debug\net6.0\ref\task001_maxmin.dll
